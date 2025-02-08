@@ -1,4 +1,4 @@
- Netflix Movie Trends: Detailed Data Analysis
+ Netflix Movie Trends: Detailed Data Analysis :
 
 Netflix's extensive movie catalog provides insightful trends into audience preferences and content patterns. After analyzing 9,827 movies, we uncovered the following key insights:
 
